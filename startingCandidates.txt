@@ -1,0 +1,21 @@
+Manager Susan 10 8 7
+Manager Corny 12 6 10
+Manager Signo 15 7 7
+Acct. Monoir 15 1 10
+Acct. Nuisance 20 0 7
+Acct. Annoyance 20 5 4
+Sales Samuel 5 5 10
+Sales Trash 50 0 1
+Sales Quirky 5 2 8
+Sales Ranger 10 8 6
+Sales Spamton 1 10 10
+Tours Dummy 10 8 8
+Tours Minor 15 10 5
+Tours Major 20 5 5
+Guard Bully 5 10
+Guard Billy 20 6
+Guard Burly 50 10
+Guard GirlBoss 30 8
+Guard BoyLoser 20 3
+Guard Gangster 15 6
+Guard Blanket 10 10

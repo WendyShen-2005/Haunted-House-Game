@@ -1,0 +1,12 @@
+null DoorEntrance null null Sword Sword null 
+null null null null Sword Sword null 
+null null null Sword Sword Sword null 
+null null null Spider Sword null null 
+DoorExit null null null null null null 
+null null null null null null null 
+null null null null null null null 
+null null null null null null null 
+null null null null null null null 
+null null null null null null null 
+null null null null null null null 
+null null null null null null null 

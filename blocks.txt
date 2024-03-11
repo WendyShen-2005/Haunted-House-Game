@@ -1,0 +1,10 @@
+Fence 6 3 7 10
+Jack-o-lantern 2 10 3 5
+Scarecrow 5 5 5 7.5
+Torch 0 7 3 2
+Sword 2 2 10 12.5
+Skull 5 1 8 6
+Mold 1 1 1 1
+Chains 3 3 8 15.5
+Spider 9 5 4 4.5
+Ghost 2 9 5 3.5
